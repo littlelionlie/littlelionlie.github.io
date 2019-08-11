@@ -10,6 +10,7 @@ NexT.utils = NexT.$u = {
       .not(':hidden')
       .each(function() {
         var $image = $(this);
+        if ($(this).hasClass('nofancybox')) return;
         var imageTitle = $image.attr('title') || $image.attr('alt');
         var $imageWrapLink = $image.parent('a');
 
