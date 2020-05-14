@@ -1,1 +1,4 @@
 <div style="float:center;margin:0 0 0 0"><img style="float: center; width:400px;" src="./home.jpg" class="nofancybox"></div>
+
+
+<div style="float:center;margin:0 0 0 0"><img style="float: center; width:400px;" src="./home.jpeg" class="nofancybox"></div>
